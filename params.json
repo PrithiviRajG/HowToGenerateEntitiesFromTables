@@ -1,0 +1,6 @@
+{
+  "name": "How to generate entities from tables (No Code - Only Steps)",
+  "tagline": "Steps to generate entities from Tables",
+  "body": "HowToGenerateEntitiesFromTables\r\n\r\nSteps to generate entities from Tables\r\n\r\n1. Create a JPA Project From Eclipse\r\n2. Right click on the project, go to JPA Tools and select 'Generate Entities from tables' option\r\n3. If no connection exist, create a new section by clicking the add connection icon\r\n4. select the type of database from the given options\r\n5. If the driver is not already existing, just download the respective driver jar and point it to the same.\r\n6. connect the database by giving URL, username and password\r\n7. select the schema from where you want to generate entities from tables\r\n8. select the tables and click finish button",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
